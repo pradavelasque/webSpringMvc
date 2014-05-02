@@ -2,7 +2,7 @@ package com.objis.springmvcdemo.dao;
 
 import java.util.List;
 import com.objis.springmvcdemo.domaine.Employe;
-
+//test
 public interface IEmployeDao {
 	
 	public void saveEmploye(Employe employe);
